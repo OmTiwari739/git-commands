@@ -18,3 +18,8 @@ git clone (link of repo)
 for status of the repo right now (for any changes)
 git status
 
+to add a commit message
+git commit -m "write your message"
+
+to push 
+git push origin main #(main is a branche)
